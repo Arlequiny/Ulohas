@@ -1,0 +1,21 @@
+In the client, commands are entered via the chat window, which is displayed by pressing the T / ‌[BE only] / D-pad right‌[BE only] or / key. Using the / key also enters the forward-slash that commands require as a prefix, so it is a useful shortcut. The Up and Down keys can be used to view previously entered text, including all previously executed commands.
+
+When the cursor is at a location corresponding to some types of argument (such as an entity ID), a list of applicable values appears above the text box. If the argument is already containing some characters, the list displays only those values containing the typed text. Pressing Tab while entering commands cycles through possible commands or arguments, and can be used to auto-enter them.
+
+Commands may also be entered in a multiplayer server's console, but are not preceded by a / when entered this way. A server owner running commands in this way is often referred to as "ghosting".
+
+Commands in command blocks can be preceded by a slash, but it is not required.
+
+Commands can be executed in the following ways;
+
+Entered by a player in the chat screen.
+Executed by a command block or a minecart with command block.
+In functions, in a data pack‌[JE only] or behavior pack‌[BE only].
+In scripts, in a behavior pack‌[BE only].
+In animation controllers, in a behavior pack‌[BE only].
+In a block event response, in a behavior pack‌[BE only].
+In an entity event response, in a behavior pack‌[BE only].
+In a dedicated server, entered in the console.
+Clicking a Json text that has "run_command" action.‌[JE only]
+Requested by a WebSocket server connected to a client.‌[BE only]
+By an NPC dialogue.‌[BE only]
